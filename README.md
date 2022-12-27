@@ -2,7 +2,7 @@
 
 I'm Diogo Martins, a programming rookie who lives in Brazil. I'm currently learning about Frontend & Backend technologies, and English. 
 
-- :seedling: I'm currently learning React
+- :seedling: I'm currently learning Front-end with React, and Back-end
 - :telescope: I’m currently working on creating modern, beautiful and accessible webpages
 - :grinning: I like to eat, code, watch tv series, and play videogames.
 - :heart: Family
