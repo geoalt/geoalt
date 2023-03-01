@@ -18,7 +18,12 @@ I'm Diogo Martins, a programming rookie who lives in Brazil. I'm currently learn
 ![React](https://img.shields.io/badge/-React-333333?style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat)
+
+<!-- <br> -->
+
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat)
+![Node.js](https://img.shields.io/badge/-Nodejs-333333?style=flat)
   
 <!-- <br> -->
   
