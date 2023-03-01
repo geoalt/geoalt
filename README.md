@@ -11,12 +11,14 @@ I'm Diogo Martins, a programming rookie who lives in Brazil. I'm currently learn
 
 #### Languages and Tools
 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=)
 ![React](https://img.shields.io/badge/-React-333333?style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat)
   
 <!-- <br> -->
   
