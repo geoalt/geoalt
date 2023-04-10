@@ -24,7 +24,8 @@ I'm Diogo Martins, a programming rookie who lives in Brazil. I'm currently learn
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat)
-![Node.js](https://img.shields.io/badge/-Nodejs-333333?style=flat)
+![Node.js](https://img.shields.io/badge/-NodeJS-333333?style=flat)
+![Mongo](https://img.shields.io/badge/-MongoDB-333333?style=flat)
   
 <!-- <br> -->
   
