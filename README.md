@@ -3,6 +3,8 @@
 I'm Diogo Martins, a programming rookie who lives in Brazil. I'm currently learning about Frontend & Backend technologies, and English. 
 
 - :seedling: I'm currently learning object-oriented programming (OOP)
+- :muscle: Software engineering undergraduate
+- :leaves: Trybe's fullstack web development course
 - :grinning: I like to eat, code, watch tv series, and play videogames.
 - :heart: Family
 <!-- - :telescope: I’m currently working on creating modern, beautiful and accessible webpages -->
