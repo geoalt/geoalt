@@ -1,6 +1,6 @@
 ### Hi there! Nice to meet you! :wave:
 
-I'm Diogo Martins, a programming rookie who lives in Brazil. I'm currently learning about Frontend & Backend technologies, and English. 
+I'm Diogo Martins, a programming rookie who lives in Brazil. I'm currently learning about Frontend, Backend & Software Engineering, and English aswell.  
 
 - :seedling: I'm currently learning object-oriented programming (OOP)
 - :muscle: Software engineering undergraduate
